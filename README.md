@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Littlesk
+- 👋 Hi, I’m Shannon Little.
 - 👀 I’m interested in creating projects that solve a problem.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently working on using my current knowledge in real-world solutions.
 - 📫 How to reach me littlesk@ad.unc.edu
 
 <!---
