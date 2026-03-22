@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shannon Little.
 - 👀 I’m interested in creating projects that solve a problem.
 - 🌱 I’m currently working on using my current knowledge in real-world solutions.
-- 📫 How to reach me shannon.little925@gmai.com
+- 📫 How to reach me shannon.little925@gmail.com
 
 <!---
 Littlesk/Littlesk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
